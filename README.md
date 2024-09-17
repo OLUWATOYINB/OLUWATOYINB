@@ -5,10 +5,10 @@ I'm a Software Engineer. I'm passionate about sharing knowledge, documentation, 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
+- 💡 Fun fact: I'm currently studying Frontend Engineering at AltSchool Africa Class of 2024.
 - 🌱 I’m currently learning HTML, and CSS.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).
+- 💼 Job interests: Frontend Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing oluwatoyinadebisi955@gmail.com.
 
 ---
